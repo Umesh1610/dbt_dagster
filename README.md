@@ -13,3 +13,6 @@ Key Features
 - ✔️ Monitor pipelines in Dagster UI
 - ✔️ Automate scheduling and triggers
 - ✔️ Modular, scalable architecture
+
+
+![image](https://github.com/user-attachments/assets/1a40e11f-bd16-4ac3-b38f-54adb79e01e2)
